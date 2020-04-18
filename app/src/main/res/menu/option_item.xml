@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="About Us" android:id="@+id/about"/>
+
+    <item android:title="Contact Us" android:id="@+id/contact"/>
+
+    <item android:title="Gallery" android:id="@+id/gallery"/>
+
+    <item android:title="Log Out" android:id="@+id/logout" app:showAsAction="withText"/>
+</menu>
